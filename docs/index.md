@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## I'm Matthew Fikes. Welcome to my data science portfolio.
 
-You can use the [editor on GitHub](https://github.com/mjfikes/mjfikes.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  
+## Python Coding Examples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
 
-```markdown
-Syntax highlighted code block
+[Canadian Air Registry Retrieval](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)
 
-# Header 1
-## Header 2
-### Header 3
+[PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
 
-- Bulleted
-- List
+## Analysis Examples
 
-1. Numbered
-2. List
+Wegmans vs. Price Chopper
 
-**Bold** and _Italic_ and `Code` text
+Dual Enrollment Pathways
 
-[Link](url) and ![Image](src)
-```
+College Retention Prediction
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Instructor Salary and Student Success
 
-### Jekyll Themes
+Poverty and Education Study
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjfikes/mjfikes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Gateway Course Analysis 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
