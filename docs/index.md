@@ -1,9 +1,13 @@
-## I'm Matthew Fikes. Welcome to my data science portfolio.
+
+
+## About me
+
+I'm Matthew Fikes. Welcome to my data science portfolio.
 
 
 
-  
-## Python Coding Examples
+## Work/Projects
+### Python Coding Examples
 
 [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
 
@@ -11,7 +15,9 @@
 
 [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
 
-## Analysis Examples
+<hr></hr>
+
+### Analysis Examples
 
 Wegmans vs. Price Chopper
 
@@ -24,4 +30,7 @@ Instructor Salary and Student Success
 Poverty and Education Study
 
 Gateway Course Analysis 
+
+## Contact
+E-mail: [mj.fikes@gmail.com](mailto:mfikes@gmail.com)
 
