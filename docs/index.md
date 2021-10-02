@@ -2,7 +2,10 @@
 
 ## About me
 
-I'm Matthew Fikes. Welcome to my data science portfolio.
+My name is Matthew Fikes. Welcome to my data science portfolio.
+
+I am a graduate student in a data science program at Bellevue University and the Coordinator of Research and Analysis
+at Mohawk Valley Community College. 
 
 
 
@@ -15,7 +18,7 @@ I'm Matthew Fikes. Welcome to my data science portfolio.
 
 [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
 
-<hr></hr>
+
 
 ### Analysis Examples
 
