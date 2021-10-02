@@ -15,7 +15,7 @@ I'm Matthew Fikes. Welcome to my data science portfolio.
 
 [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
 
-<hr></hr>
+
 
 ### Analysis Examples
 
