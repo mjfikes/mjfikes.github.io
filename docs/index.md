@@ -5,11 +5,12 @@
 My name is Matthew Fikes. Welcome to my data science portfolio.
 
 I am a graduate student in a data science program at Bellevue University and the Coordinator of Research and Analysis
-at Mohawk Valley Community College. 
+at Mohawk Valley Community College. Much of my work involves working with education data for assessment and predictive modeling.
 
 
 
 ## Work/Projects
+
 ### Python Coding Examples
 
 [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
