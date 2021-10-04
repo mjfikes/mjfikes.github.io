@@ -13,8 +13,9 @@ at Mohawk Valley Community College. Much of my work involves working with educat
 
 ### Python Coding Examples
 
-[Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
 
+
+[![Cash Register](/docs/assets/pictures/weather_title.jpg)](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
 [Canadian Air Registry Retrieval](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)
 
 [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
