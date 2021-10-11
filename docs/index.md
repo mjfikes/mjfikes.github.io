@@ -13,11 +13,11 @@ at Mohawk Valley Community College. Much of my work involves working with educat
 
 ### Python Coding Examples
 
-| Project | Screenshot |
-|---------------|-----------------------------------------------------|
-| Cash Register | [![Cash Register](https://github.com/mjfikes/mjfikes.github.io/blob/3c1e9cbf399846f1b9e52b2b73114f950b3ebb38/docs/assets/pictures/cash_title.png)](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register) |
-| Canadian Registry | [Canadian Air Registry Retrieval](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry) |
-| Python Weather | [![PythonWeather](https://github.com/mjfikes/mjfikes.github.io/blob/3c1e9cbf399846f1b9e52b2b73114f950b3ebb38/docs/assets/pictures/weather_title.jpg)](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather) |
+| Project | Description | Screenshot |
+|---------------|--------------|----------|
+| Cash Register | To- Do | [![Cash Register](https://github.com/mjfikes/mjfikes.github.io/blob/3c1e9cbf399846f1b9e52b2b73114f950b3ebb38/docs/assets/pictures/cash_title.png)](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register) |
+| Canadian Registry | To-Do | [Canadian Air Registry Retrieval](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry) |
+| Python Weather | To-Do | [![PythonWeather](https://github.com/mjfikes/mjfikes.github.io/blob/3c1e9cbf399846f1b9e52b2b73114f950b3ebb38/docs/assets/pictures/weather_title.jpg)](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather) |
 
 
 
