@@ -18,7 +18,7 @@ at Mohawk Valley Community College. Much of my work involves working with educat
 [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)
 [Canadian Air Registry Retrieval](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)
 
-[![PythonWeather](/docs/assets/pictures/weather_title.jpg)](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
+[![PythonWeather](https://github.com/mjfikes/mjfikes.github.io/blob/ca1e41a68ba7b4f53e1b37b4a4712008558f875e/docs/assets/pictures/weather_title.jpg)](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)
 
 
 
