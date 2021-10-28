@@ -34,5 +34,3 @@ Poverty and Education Study
 Gateway Course Analysis 
 
 ## Contact
-E-mail: [mj.fikes@gmail.com](mailto:mfikes@gmail.com)
-
