@@ -15,9 +15,9 @@ at Mohawk Valley Community College. Much of my work involves working with educat
 
 | Project | Description | Screenshot |
 |---------------|--------------|----------|
-| [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register) | To- Do | ![Cash Register](/assets/pictures/cash_title.png)|
-| [Canadian Registry](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry) | To-Do | |
-| [Python Weather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather) | To-Do | ![PythonWeather](/assets/pictures/weather_title.jpg) |
+| [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register) | This is an example cash register program. It supports adding and removing items from a cart and updating prices.<p>Additional features offer price adjustment, sales, and tax changes. These require input of a user ID and are saved to a management log. | ![Cash Register](/assets/pictures/cash_title.png)|
+| [Canadian Registry](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry) | This script will automatically grab files from the Canadian Civil Aircraft Registry. These are updated by the CCA regularly to the same location and this joins the files together and exports the results to an Excel document. |-- |
+| [Python Weather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather) | This is a fully-functional weather program that will return the 5-day forecast for a location based on City/State/Country or Zipcode. <p>This program leverages APIs for the weather (OpenWeatherAPI) and Zipcode lookup. | ![PythonWeather](/assets/pictures/weather_title.jpg) |
 
 
 
