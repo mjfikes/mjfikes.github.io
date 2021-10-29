@@ -141,11 +141,10 @@ img {
 }
 
 h img {
-  position: center;
-  margin: 0 auto;
-  max-width: 1080px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
   
  
 }
