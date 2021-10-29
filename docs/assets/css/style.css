@@ -136,7 +136,7 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
+  
  
 }
 
@@ -145,7 +145,8 @@ h img {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  
+
+ 
  
 }
 
@@ -366,7 +367,12 @@ Full-Width Styles
 .tar_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 #main_content_wrap {
   background: #f2f2f2;
   border-top: 1px solid #111;
