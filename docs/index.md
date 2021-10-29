@@ -29,6 +29,7 @@ My undergraduate work focused on Studio Art, but I work with both traditional an
 
 ### Analysis Examples
 #### Education Analyses
+
 | Project                               | Description |
 |---------------------------------------|-------------|
 | Dual Enrollment Pathways              |             |
@@ -38,6 +39,7 @@ My undergraduate work focused on Studio Art, but I work with both traditional an
 | Gateway Courses and Academic Success  |             |
 
 #### Miscellaneous Analyses
+
 | Project                               | Description |
 |---------------------------------------|-------------|
 | Grocery Store Comparison              |             |
