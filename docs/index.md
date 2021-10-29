@@ -29,9 +29,9 @@ This creative visual work has fostered an understanding in communicating through
 
 | Project                               | Description |
 |---------------------------------------|-------------|
-| [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)|             |
-| [Aircraft Registry Scraper](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)|             |
-| [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)|             |
+| [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)|This is an example cash register program. It supports adding and removing items from a cart and updating prices. Additional features offer price adjustment, sales, and tax changes. These require input of a user ID and are saved to a management log.|
+| [Aircraft Registry Scraper](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)|This script will automatically grab files from the Canadian Civil Aircraft Registry. These are updated by the CCA regularly to the same location and this joins the files together and exports the results to an Excel document.|
+| [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)|This is a fully-functional weather program that will return the 5-day forecast for a location based on City/State/Country or Zipcode. <p>This program leverages APIs for the weather (OpenWeatherAPI) and Zipcode lookup.|
 
 ### Analysis Examples
 #### Education Analyses
