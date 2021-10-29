@@ -137,8 +137,17 @@ img {
   padding: 5px;
   margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
+ 
+}
 
-  
+h img {
+  position: center;
+  margin: 0 auto;
+  max-width: 1080px;
+  padding: 5px;
+  margin: 10px 0 10px 0;
+  border: 1px solid #ebebeb;
+ 
 }
 
 p img {
