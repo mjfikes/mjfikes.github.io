@@ -5,9 +5,15 @@
 My name is Matthew Fikes. Welcome to my data science portfolio.
 
 I am a graduate student in a data science program at Bellevue University and the Coordinator of Research and Analysis
-at Mohawk Valley Community College. Much of my work involves working with education data for assessment and predictive modeling.
+at Mohawk Valley Community College. Much of my work involves using education data for assessment and predictive modeling.
+
+I am passionate for data and work to leverage the tools of a data scientist to improve academic outcomes for my students.
+Aside from common tools like Python and R I work with Higher Education specific data solutions from Ellucian like Banner and Argos.
 
 My undergraduate work focused on Studio Art, but I work with both traditional and digital media. 
+This creative visual work has fostered an understanding in communicating through visual design which fed into effective data visualization.
+
+
 
 ### Personal Links
 * [LinkedIn](https://www.linkedin.com/in/matthew-fikes-0ab91213/)
@@ -23,9 +29,9 @@ My undergraduate work focused on Studio Art, but I work with both traditional an
 
 | Project                               | Description |
 |---------------------------------------|-------------|
-| Cash Register                         |             |
-| Aircraft Registry Scraper             |             |
-| PythonWeather                         |             |
+| [Cash Register](https://github.com/mjfikes/DSCPortfolio/tree/main/Cash%20Register)|             |
+| [Aircraft Registry Scraper](https://github.com/mjfikes/DSCPortfolio/tree/main/Canadian%20Air%20Registry)|             |
+| [PythonWeather](https://github.com/mjfikes/DSCPortfolio/tree/main/PythonWeather)|             |
 
 ### Analysis Examples
 #### Education Analyses
