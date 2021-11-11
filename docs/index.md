@@ -38,7 +38,7 @@ This creative visual work has fostered an understanding in communicating through
 
 | Project                               | Description |
 |---------------------------------------|-------------|
-| Dual Enrollment Pathways              |             |
+| [Dual Enrollment Pathways](https://github.com/mjfikes/DSCPortfolio/tree/main/Dual%20Enrollment%20Pathways)|This project has two tasks - predicting high school to college enrollment with decision trees and random forests and then clustering them to look for similarities.|
 | College Retention Prediction          |             |
 | Instructor Salary and Student Success |             |
 | [Poverty and Education](https://github.com/mjfikes/DSCPortfolio/tree/main/Poverty%20and%20Education)|This study looks at the connections between childhood poverty and academic achievement. Analyzing 3 datasets I attempt to find a correlation between indicators for childhood poverty and academic success measured by high school graduation|
