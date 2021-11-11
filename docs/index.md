@@ -41,7 +41,7 @@ This creative visual work has fostered an understanding in communicating through
 | Dual Enrollment Pathways              |             |
 | College Retention Prediction          |             |
 | Instructor Salary and Student Success |             |
-| Poverty and Education                 |             |
+| [Poverty and Education](https://github.com/mjfikes/DSCPortfolio/tree/main/Poverty%20and%20Education)|This study looks at the connections between childhood poverty and academic achievement. Analyzing 3 datasets I attempt to find a correlation between indicators for childhood poverty and academic success measured by high school graduation|
 | Gateway Courses and Academic Success  |             |
 
 #### Miscellaneous Analyses
