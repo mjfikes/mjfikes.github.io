@@ -42,7 +42,7 @@ This creative visual work has fostered an understanding in communicating through
 | College Retention Prediction          |             |
 | Instructor Salary and Student Success |             |
 | [Poverty and Education](https://github.com/mjfikes/DSCPortfolio/tree/main/Poverty%20and%20Education)|This study looks at the connections between childhood poverty and academic achievement. Analyzing 3 datasets I attempt to find a correlation between indicators for childhood poverty and academic success measured by high school graduation|
-| Gateway Courses and Academic Success  |             |
+| [Gateway Courses and Academic Success](https://github.com/mjfikes/DSCPortfolio/tree/main/Gateway%20Courses%20and%20Academic%20Success)|This project explores the impact of high-enrollment high failure gateway college courses on semester to semester retention in a community college setting.|
 
 #### Miscellaneous Analyses
 
