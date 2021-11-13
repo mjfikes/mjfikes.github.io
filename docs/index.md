@@ -48,7 +48,7 @@ This creative visual work has fostered an understanding in communicating through
 
 | Project                               | Description |
 |---------------------------------------|-------------|
-| Grocery Store Comparison              |             |
+| [Grocery Store Comparison](https://github.com/mjfikes/DSCPortfolio/tree/main/Grocery%20Store%20Competition%20Study)|This project looks at two theories about location choice of two competing grocerty stores - Wegmans and Price Chopper. The first theory looks at the income level of areas the stores serve and the second looks to cluster the stores geographically to see if there are any clearly defined borders.|
 | COVID-19 Disinformation on Reddit     |             |
 
 
